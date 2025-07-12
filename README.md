@@ -13,4 +13,4 @@ In this session (notebook `class_1_session.ipynb`) we learn the basics of PyTorc
   - Sensibility of model training wrt. learning rate.
   - The training loop in detail, with basic metric logging and visualization.
 
-Afterwards, an exercice (`class_1_exercice.ipynb`) is proposed where the session steps must be reproduced to optimize a 3-parameter model.
+Afterwards, an exercice (notebook `class_1_exercice.ipynb`) is proposed where the session steps must be reproduced to optimize a 3-parameter model.
